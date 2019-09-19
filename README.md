@@ -7,5 +7,4 @@
 ## Accomplishments
 ### Making a Github Blog 9/20
 
-## Team Blog:
 ## [Digital Dominators Blog](https://opi-scrum-team.github.io/Digital-Dominators-Blog/)
